@@ -1,0 +1,2 @@
+# JumperBlock
+指定したブロックの組み合わせの上に乗ると弾むPlugin
